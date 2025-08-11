@@ -41,7 +41,7 @@ I’m passionate about transforming raw data into meaningful insights that drive
 
 ## 📊 Sample Dashboards
 *(Add screenshots of your dashboards here)*  
-![Sales Dashboard](https://raw.githubusercontent.com/sunila-k05/sunila-k05/main/assets/sales_dashboard.png)
+![](https://raw.githubusercontent.com/sunila-k05/sunila-k05/main/assets/sales_dashboard.png)
 
 ---
 
