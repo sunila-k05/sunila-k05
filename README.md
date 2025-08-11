@@ -8,10 +8,9 @@ I’m passionate about transforming raw data into meaningful insights that drive
 ---
 
 ## 💡 About Me
-- 🔭 Currently working as: **Data Analyst Intern**
+  **Currently Seeking a Data Analyst Internship**
 - 🌱 Learning: **Business Intelligence Development & Data Visualization**
 - 📫 Reach me: [sunilasunil386@gmail.com](mailto:sunilasunil386@gmail.com)
-- ⚡ Fun fact: I create more dashboards than I sleep 😅
 
 ---
 
