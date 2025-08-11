@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Banner](https://raw.githubusercontent.com/sunila-k05/sunila-k05/main/assets/banner.png)
-
 # Hi, I'm Sunil K 👋
 **BI Developer & Data Analyst**  
 I’m passionate about transforming raw data into meaningful insights that drive smarter business decisions.
