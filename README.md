@@ -38,10 +38,9 @@ I’m passionate about transforming raw data into meaningful insights that drive
 </details>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunila-k05/sunila-k05/main/assets/sales_dashboard.png" width="400">
-  <img src="https://raw.githubusercontent.com/sunila-k05/sunila-k05/main/assets/hr_dashboard.png" width="400">
-</p>
+## 📊 Sample Dashboards
+![Sales Dashboard](https://raw.githubusercontent.com/sunila-k05/sunila-k05/main/assets/sales_dashboard.png)
+
 
 ---
 
