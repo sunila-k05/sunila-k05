@@ -1,4 +1,4 @@
-#  Hey there, I'm Sunil — I help teams automate and scale their applications using Google Cloud Platform (GCP) and DevOps tools ☁️
+#  Hey there, I'm Sunil — I help teams automate and scale their applications using Google Cloud Platform (GCP) and DevOps tools 
 
  As a Cloud & DevOps Engineer, I specialize in building reliable, automated, and scalable cloud infrastructure on **Google Cloud Platform (GCP)**.  
 I focus on delivering efficient CI/CD pipelines, containerized deployments, and cost-optimized cloud solutions that help startups and teams move faster.
@@ -12,7 +12,7 @@ My goal is to make deployment fast, repeatable, and secure — from code to prod
 
 ---
 
-## ⚙️ Core Expertise
+## Core Expertise
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
