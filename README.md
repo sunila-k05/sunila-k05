@@ -4,18 +4,19 @@ I’m a DevOps & Cloud Engineer passionate about automation, infrastructure as c
 With hands-on experience in Docker, Terraform, Linux, and CI/CD, I design and deploy scalable infrastructure on Amazon Web Services (AWS).
 My goal is to make deployment fast, repeatable, and secure — from code to production.
 
-Core Expertise
-Category	Tools & Technologies
-☁️ Cloud	Amazon Web Services (EC2, Fargate / Elastic Beanstalk, RDS, CodeBuild, EKS, IAM, VPC)
-🐳 Containers	Docker, Kubernetes (EKS)
-🔁 CI/CD Pipelines	GitHub Actions, CodeBuild
-🧱 Infrastructure as Code	Terraform
-💻 Programming & Scripting	Bash, Python
-📊 Monitoring & Logging	Amazon CloudWatch & CloudTrail
-🧩 Version Control	Git, GitHub
-🔒 Security	IAM Roles, Service Accounts, Secrets Management
-Focused On
+| Category                       | Tools & Technologies                                                                  |
+| ------------------------------ | ------------------------------------------------------------------------------------- |
+| ☁️ **Cloud**                   | Amazon Web Services (EC2, Fargate / Elastic Beanstalk, RDS, CodeBuild, EKS, IAM, VPC) |
+| 🐳 **Containers**              | Docker, Kubernetes (EKS)                                                              |
+| 🔁 **CI/CD Pipelines**         | GitHub Actions, CodeBuild                                                             |
+| 🧱 **Infrastructure as Code**  | Terraform                                                                             |
+| 💻 **Programming & Scripting** | Bash, Python                                                                          |
+| 📊 **Monitoring & Logging**    | Amazon CloudWatch & CloudTrail                                                        |
+| 🧩 **Version Control**         | Git, GitHub                                                                           |
+| 🔒 **Security**                | IAM Roles, Service Accounts, Secrets Management                                       |
 
+
+Focused On:
 Building production-ready infrastructure on AWS
 
 Automating deployments and monitoring systems
