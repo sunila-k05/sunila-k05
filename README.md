@@ -15,15 +15,15 @@ My goal is to make deployment fast, repeatable, and secure — from code to prod
 | 🧩 **Version Control**         | Git, GitHub                                                                           |
 | 🔒 **Security**                | IAM Roles, Service Accounts, Secrets Management                                       |
 
+Focused On
 
-Focused On:
 Building production-ready infrastructure on AWS
 
 Automating deployments and monitoring systems
 
-Creating cost-efficient, scalable cloud architectures
+Creating cost-efficient and scalable cloud architectures
 
-Enhancing CI/CD and DevOps workflows for speed and reliability
+Enhancing CI/CD and DevOps workflows for greater speed and reliability
 
 Delivering high-availability and secure cloud environments
 
@@ -38,5 +38,7 @@ Let’s Connect
 Motto
 
 “Automate everything. Measure everything. Improve continuously.”
+
+What I Do
 
 I help startups deploy faster and scale smarter using Amazon Web Services and DevOps automation.
