@@ -6,8 +6,8 @@ My goal is to make deployment fast, repeatable, and secure — from code to prod
 
 | Category                       | Tools & Technologies                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------- |
-| ☁️ **Cloud**                   | Amazon Web Services (EC2, Fargate / Elastic Beanstalk, RDS, CodeBuild, EKS, IAM, VPC) |
-| 🐳 **Containers**              | Docker, Kubernetes (EKS)                                                              |
+| ☁️ **Cloud**                   | Amazon Web Services  |
+| 🐳 **Containers**              | Docker, Kubernetes                                                              |
 | 🔁 **CI/CD Pipelines**         | GitHub Actions, CodeBuild                                                             |
 | 🧱 **Infrastructure as Code**  | Terraform                                                                             |
 | 💻 **Programming & Scripting** | Bash, Python                                                                          |
