@@ -43,6 +43,3 @@ What I Do
 
 I help startups deploy faster and scale smarter using Amazon Web Services and DevOps automation.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME)
-
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
